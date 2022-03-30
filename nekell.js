@@ -437,11 +437,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script Status Private\n\n Dont Forget Give Star\n\nDonate : 083804343232 (Gopay, Ovo, Pulsa)\nSaweria : https://saweria.co/AbangYT')
+                m.reply('Script Bot? Tar lagi di bikin webnya\n\n Dont Forget Give Star\n\nDonate : 083804343232 (Gopay, Ovo, Pulsa)\nSaweria : https://saweria.co/AbangYT')
             }
             break
             case 'gcbot': {
-            	m.reply('Nih Tuan Link Group Bot nya : \n->https://chat.whatsapp.com/G7feMT0blJi6j3UvjHOyjK')
+            	m.reply('GROUP BOT 1 : \n->https://chat.whatsapp.com/G7feMT0blJi6j3UvjHOyjK\nGROUP BOT 2 : \n->https://chat.whatsapp.com/J4ii7zkiySP9s6xdlZDggp')
             case 'chat': {
                 if (!isCreator) throw mess.owner
                 if (!q) throw 'Option : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete'
@@ -2337,7 +2337,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'list': case 'help': case '?': case 'menu': {
-                anu = `┌──⭓ *「 BERNEKELLBOT 」*
+                anu = `┌──⭓ *「 BOT KU 」*
  Hai Orang Yang Paling Beban ${pushname} 🗿 Saya ${botname} Ada Yang Bisa Saya Bantu?.
 
 │📍 Si Beban: ${pushname}
@@ -2651,7 +2651,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │
 │📌 My God
 │📌 Ortu Gwejh
-│📌 Bang Koleksi Bot
+│📌 Bang Ahmad Selaku My Guru : ${ahmad}
+│📌 Saya : ${aku}
 │📌 ${allfriend}
 │
 │🏴‍☠️ Jangan Lupa Donasi Agar Bot Bisa Selalu On Tiap Hari,Tiap Jam,Tiap Menit,Tiap Detik.
